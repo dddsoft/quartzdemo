@@ -116,7 +116,7 @@
           </li>
 
                 
-                            <li class="nav-item dropdown ">
+          <li class="nav-item dropdown ">
             <a class="nav-link dropdown-toggle" href="https://mechauz.uz/uz/meetings/single/24" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >UZB <img src="https://mechauz.uz/img/uzb.png" alt=""  style="min-width:25px; max-width:35px;"></a>
             <div class="dropdown-menu">
                 <a class="dropdown-item " href="https://mechauz.uz/en/meetings/single/24">ENG <img src="https://mechauz.uz/img/eng.png" alt="" style="min-width:25px; max-width:35px;"></a>
