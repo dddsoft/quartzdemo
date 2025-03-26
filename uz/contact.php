@@ -13,7 +13,8 @@
   <link href="../logo/logoQuartzUz.jpg" rel="icon">
   <link href="../logo/logoQuartzUz.jpg" rel="apple-touch-icon">
   <!-- Favicons -->
-  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+
 
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
